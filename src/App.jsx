@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>Look how the application is refreshed on Github page</p>
     </>
   )
 }
